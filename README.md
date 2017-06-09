@@ -1,0 +1,2 @@
+# laika
+Personal CI worker
